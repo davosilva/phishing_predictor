@@ -1,0 +1,17 @@
+# Dependencias principales
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Para cargar datasets de Hugging Face
+datasets>=2.0.0
+
+# Para procesamiento de URLs (ya incluidas en Python)
+# urllib.parse y re son de la biblioteca estándar
+
+# Opcional - para mejor rendimiento
+joblib>=1.1.0
+
+# Opcional - para desarrollo y pruebas
+pytest>=7.0.0
