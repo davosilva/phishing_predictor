@@ -179,6 +179,8 @@ https://arxiv.org/abs/2507.10854
 }
 ```
 
+---
+
 ### Citation Request
 
 If you use this project, please consider citing the original PhreshPhish dataset and benchmark paper to support the authors and ongoing phishing detection research.
