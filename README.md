@@ -136,19 +136,6 @@ phishing-predictor/
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
-## 📧 Contact
-
-Author: davosilva
-
-GitHub: https://github.com/davosilva
-
-
 ## 📚 Dataset Citation
 
 This project is trained and evaluated using the **PhreshPhish** dataset, a large-scale, real-world phishing website benchmark designed to improve the quality and realism of phishing detection research.
@@ -195,3 +182,10 @@ https://arxiv.org/abs/2507.10854
 ### Citation Request
 
 If you use this project, please consider citing the original PhreshPhish dataset and benchmark paper to support the authors and ongoing phishing detection research.
+
+## 📬 Contact
+
+- **Author**: [David Silva]
+- **GitHub**: [@davosilva](https://github.com/davosilva)
+- **Website**: [zioNETMX](https://www.zionet.com.mx)
+
