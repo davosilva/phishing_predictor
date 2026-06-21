@@ -188,4 +188,3 @@ If you use this project, please consider citing the original PhreshPhish dataset
 - **Author**: [David Silva]
 - **GitHub**: [@davosilva](https://github.com/davosilva)
 - **Website**: [zioNETMX](https://www.zionet.com.mx)
-
