@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Datasets-yellow.svg)](https://huggingface.co/datasets/phreshphish/phreshphish)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Overview
 
