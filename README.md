@@ -185,8 +185,14 @@ https://arxiv.org/abs/2507.10854
 
 If you use this project, please consider citing the original PhreshPhish dataset and benchmark paper to support the authors and ongoing phishing detection research.
 
+
+---
+
 ## 📬 Contact
 
 - **Author**: [David Silva]
 - **GitHub**: [@davosilva](https://github.com/davosilva)
 - **Website**: [zioNETMX](https://www.zionet.com.mx)
+
+---
+
